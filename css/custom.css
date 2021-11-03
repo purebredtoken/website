@@ -1,0 +1,20 @@
+/*==================================================================================
+    Custom Stylesheet ( Any custom styling you want to apply should be defined here ).
+====================================================================================*/
+
+.object-custom-menu>li.has-mega-menu>a::after{
+  display:none;
+}
+
+.manu-hamber div {
+    color: white;
+}
+
+.time-count {
+    color: white!important;
+}
+
+.countbox.timer-grid {
+    background: orange;
+    border-radius: 30px;
+}
